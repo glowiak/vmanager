@@ -7,6 +7,9 @@ Dependiences:
 -zenity (necessary)
 -ksh (opcional)
 
+NOTE! Installation won't create desktop or application link. To run it you must type in terminal "vmanager" command
+or create you own link to this command.
+
 DOWNLOAD:
 tar.gz package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-linux.tar.gz
 Arch package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-1-x86_64.pkg.tar.zst
