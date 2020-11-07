@@ -8,8 +8,8 @@ Dependiences:
 -ksh (opcional)
 
 DOWNLOAD:
-tar.gz package:
-Arch package:
+tar.gz package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-linux.tar.gz
+Arch package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-1-x86_64.pkg.tar.zst
 
 Installation:
 Arch package: # pacman -U <path to Arch package>
