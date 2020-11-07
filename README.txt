@@ -23,3 +23,8 @@ Now install tar.gz package: # cd / && tar xvf <path to tar.gz package>
 Path installation: # mv /usr/bin/vmanager /usr/local/bin/vmanager
 More patches (you have to do it): delete "-enable-kvm" and "-cpu host" parts from /opt/vmanager/args
 Done.
+
+Using other architecture for VMs:
+To do this you must:
+on Arch: install qemu-arch-extra package and edit /opt/vmanager/arch file
+on other distro/OS: edit /opt/vmanager/arch file
