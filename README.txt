@@ -16,16 +16,19 @@ Dependiences on FreeBSD:
 (old) NOTE! Installation won't create desktop or application link. To run it you must type in terminal "vmanager" command
 or create you own link to this command.
 
-Latest version: 0.14
-Latest version for freebsd: 0.14_fp01
+Latest version: 0.15
 
 DOWNLOAD:
-tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-linux.tar.gz
-0.14_fp01 tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.14_fp01/vmanager-0.14_fp01-freebsd.tar.gz
-Arch package: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-1-any.pkg.tar.zst
+tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15-linux.tar.gz
+tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15-freebsd.tar.gz
+Arch package: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15-1-any.pkg.tar.zst
 Debian package: not available yet.
 
 DOWNLOAD OLD BUILDS:
+v0.14/v0.14_fp01:
+tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-linux.tar.gz
+0.14_fp01 tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.14_fp01/vmanager-0.14_fp01-freebsd.tar.gz
+Arch package: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-1-any.pkg.tar.zst
 v0.13:
 tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.13/vmanager-0.13-linux.tar.gz
 tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.13/vmanager-0.13-freebsd.tar.gz
