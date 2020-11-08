@@ -67,3 +67,6 @@ What I'll add in 0.13:
 News in v0.14:
 -repaired non-running vms on FreeBSD
 -added icon to application menu
+
+Bugs that I can't fix (bugzilla):
+-BGFDB-001: Files or directories which names contains space are unsupported.
