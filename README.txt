@@ -6,6 +6,12 @@ Dependiences:
 -qemu (necessary)
 -zenity (necessary)
 -ksh (necessary)
+-qemu-arch-extra (opcional on ArchLinux)
+
+Dependiences on FreeBSD:
+-qemu
+-zenity
+-bash
 
 (old) NOTE! Installation won't create desktop or application link. To run it you must type in terminal "vmanager" command
 or create you own link to this command.
