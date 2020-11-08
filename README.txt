@@ -5,7 +5,7 @@ Format: At the moment I'm providing two formats - tar.gz package that works on a
 Dependiences:
 -qemu (necessary)
 -zenity (necessary)
--ksh (opcional)
+-ksh (necessary)
 
 NOTE! Installation won't create desktop or application link. To run it you must type in terminal "vmanager" command
 or create you own link to this command.
@@ -13,10 +13,15 @@ or create you own link to this command.
 Latest version: 0.12
 
 DOWNLOAD:
-tar.gz package: https://github.com/glowiak/vmanager/releases/download/0.12/vmanager-0.12-linux.tar.gz
-Arch package:https://github.com/glowiak/vmanager/releases/download/0.12/vmanager-0.12-1-x86_64.pkg.tar.zst
+tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.13/vmanager-0.13-linux.tar.gz
+tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.13/vmanager-0.13-freebsd.tar.gz
+Arch package:https://github.com/glowiak/vmanager/releases/download/0.13/vmanager-0.13-1-any.pkg.tar.zst
+Debian package: not available yet.
 
 DOWNLOAD OLD BUILDS:
+v0.12:
+tar.gz package: https://github.com/glowiak/vmanager/releases/download/0.12/vmanager-0.12-linux.tar.gz
+Arch package:https://github.com/glowiak/vmanager/releases/download/0.12/vmanager-0.12-1-x86_64.pkg.tar.zst
 v0.11:
 tar.gz package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-linux.tar.gz
 Arch package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-1-x86_64.pkg.tar.zst
@@ -27,6 +32,7 @@ tar.gz package: # cd / && tar xvf <path to tar.gz package>
 Debian package: I'm don't providing debian package, because I'm not use debian.
 
 Installation in other OSes:
+NOTE!: This is only for versions older than 0.13!
 FreeBSD:
 (type this before installing): # mkdir -p /opt
 Now install tar.gz package: # cd / && tar xvf <path to tar.gz package>
