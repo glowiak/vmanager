@@ -11,10 +11,11 @@ Dependiences:
 or create you own link to this command.
 
 Latest version: 0.14
+Latest version for freebsd: 0.14_fp01
 
 DOWNLOAD:
 tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-linux.tar.gz
-tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-freebsd.tar.gz
+0.14_fp01 tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.14_fp01/vmanager-0.14_fp01-freebsd.tar.gz
 Arch package: https://github.com/glowiak/vmanager/releases/download/0.14/vmanager-0.14-1-any.pkg.tar.zst
 Debian package: not available yet.
 
