@@ -81,3 +81,5 @@ pkg.tar.zst - Arch package
 deb - Debian package (yet not available)
 rpm - RedHat package (not available)
 tar.xz  - source code (not available, because source code is installed to /opt/vmanager with package)
+
+Should I move project to python 2 to get more portability?
