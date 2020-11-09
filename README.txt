@@ -73,3 +73,11 @@ News in v0.14:
 
 Bugs that I can't fix (bugzilla):
 -BGFDB-001: Files or directories which names contains space are unsupported.
+
+
+Used file extensions:
+tar.gz  - package
+pkg.tar.zst - Arch package
+deb - Debian package (yet not available)
+rpm - RedHat package (not available)
+tar.xz  - source code (not available, because source code is installed to /opt/vmanager with package)
