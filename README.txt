@@ -40,6 +40,9 @@ v0.11:
 tar.gz package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-linux.tar.gz
 Arch package: https://github.com/glowiak/vmanager/releases/download/0.11/vmanager-0.11-1-x86_64.pkg.tar.zst
 
+Path for 32 bit OSes (necessary if you have 32 bit os):
+# rm /opt/vmanager/arch && echo "i386" >> /opt/vmanager/arch
+
 Installation:
 Arch package: # pacman -U <path to Arch package>
 tar.gz package: # cd / && tar xvf <path to tar.gz package>
