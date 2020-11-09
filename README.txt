@@ -45,7 +45,7 @@ Path for 32 bit OSes (necessary if you have 32 bit os):
 
 Installation:
 Arch package: # pacman -U <path to Arch package>
-tar.gz package: # cd / && tar xvf <path to tar.gz package>
+tar.gz package: # cd / && tar xzvf <path to tar.gz package>
 Debian package: I'm don't providing debian package, because I'm not use debian.
 
 Installation in other OSes:
