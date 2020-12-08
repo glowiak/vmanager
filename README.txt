@@ -20,7 +20,7 @@ Latest version: 0.15
 
 DOWNLOAD:
 tar.gz for Linux: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15-linux.tar.gz
-tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15-freebsd.tar.gz
+tar.gz for FreeBSD: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15_fp01-freebsd.tar.gz
 Arch package: https://github.com/glowiak/vmanager/releases/download/0.15/vmanager-0.15-1-any.pkg.tar.zst
 Debian package: not available yet.
 
